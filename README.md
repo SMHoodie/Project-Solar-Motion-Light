@@ -1,3 +1,5 @@
+Click the link https://surf-glitter-23b.notion.site/Project-Solar-Motion-Light-18272dff7bd4804aaa43f5dde3b0e95a?pvs=4
+
 Project Overview
 A fully self-sustaining, solar-powered motion sensor light system built around an ESP32. It leverages deep sleep modes, RTC-based nighttime detection, and a PIR sensor to activate only when motion is detected—making it ideal for off-grid or remote applications. Planned future upgrades include a custom PCB and LDR integration for enhanced efficiency and scalability.
 
